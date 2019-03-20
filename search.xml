@@ -4,16 +4,16 @@
   
     
     <entry>
-      <title>����</title>
+      <title>测试</title>
       <link href="/2019/03/20/0320/"/>
       <url>/2019/03/20/0320/</url>
       
-        <content type="html"><![CDATA[<h1 id="�����j�"><a href="#�����j�" class="headerlink" title="�����ĵ�"></a>�����ĵ�</h1><hr><ol><li>this is my first test</li><li>һ����ѧϰ markdown.</li><li>gogoggo </li></ol>]]></content>
+        <content type="html"><![CDATA[<h1 id="测试文档"><a href="#测试文档" class="headerlink" title="测试文档"></a>测试文档</h1><hr><ol><li>this is my first test</li><li>一起来学习 markdown.</li><li>gogoggo </li></ol>]]></content>
       
       
       <categories>
           
-          <category> ���� </category>
+          <category> 技术 </category>
           
       </categories>
       
@@ -24,7 +24,7 @@
             
             <tag> hexo </tag>
             
-            <tag> ��ʽ </tag>
+            <tag> 公式 </tag>
             
         </tags>
       
